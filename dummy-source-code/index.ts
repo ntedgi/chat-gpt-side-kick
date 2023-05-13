@@ -41,3 +41,9 @@ class Fish implements Animal {
     }
 
 }
+
+
+// i want to force the model to create  genrealzation for Bird
+// then to create human class 
+// then refactor interfaces to Movable,Eatable...
+
