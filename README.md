@@ -1,3 +1,8 @@
+# GPT studies and notes:
+
+* very nice cli tool https://github.com/TheR1D/shell_gpt
+
+
 ## GPT Fine-Tuning using Node.js
 
 This project show how to easily fine-tune a GPT data model. This codebase goes along with the tutorial located [here](https://nader.substack.com/p/supercharge-your-gpt-model-custom).
