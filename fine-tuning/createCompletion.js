@@ -3,7 +3,7 @@ import { openai } from './api.js'
 async function createCompletion() {
   try {
     const response = await openai.createCompletion({
-      model: 'davinci:ft-personal-2023-03-31-01-09-15',
+      model: 'davinci:ft-personal-2023-05-13-08-11-21',
       prompt: 'What is Lens Protocol',
       max_tokens: 200
     })
