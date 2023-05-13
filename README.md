@@ -15,14 +15,6 @@ You’ll also need an OpenAI API Key. You can get one at [https://openai.com](ht
 
 First, clone the repo and install the dependencies:
 
-```sh
-git clone https://github.com/dabit3/gpt-fine-tuning-with-nodejs.git
-
-cd gpt-fine-tuning-with-nodejs
-
-npm install # or yarn
-```
-
 Next, set the environment variable for your OpenAI API Key
 
 ```sh
